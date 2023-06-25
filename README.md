@@ -8,7 +8,7 @@
 ## Inspiration:
 Melodot was inspired by the story of [Gregory Coleman](https://en.wikipedia.org/wiki/Gregory_C._Coleman) the drummer in the group 'The Winstons' who is famous for his 4 bar solo that has been sampled over a thousand times and featured in music from JayZ to the Futurama soundtrack. Sadly Gregory wasn't rewarded for his creative genius and died in 2006 homeless on the streets of Atlanta. 
 
-Melodot is the solution to this tragic problem that aims to fractionalise a creators music into the individual beats, notes and syllables to protect the most atomic part of the music, and with the use of the immutable timetstamp of the blockchain, NFT's and smart contracts the rights to this Intellectual Property can be sold and transferred allowing for royalties and rewards to go to the original creator and help upcoming artists break into the industry.
+Melodot is the solution to this tragic problem that aims to fractionalise a creators music into the individual beats, notes and syllables to protect the most atomic part of the music, and with the use of the immutable timestamp of the blockchain, NFT's and smart contracts the rights to this Intellectual Property can be sold and transferred allowing for royalties and rewards to go to the original creator and help upcoming artists break into the industry.
 
 ## A demo of the application - Click to watch:
 This demo shows how u can upload a track to the Parachain and validate it with a proof of creation. It also allows for you to fractionalise your music into the individuals beats and protect the most atomic part of the music and with the use of NFT's and smart contracts the rights to this intellectual property can be sold and transferred allowing for royalties to be created with every transaction. 
