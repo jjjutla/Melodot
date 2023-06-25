@@ -6,5 +6,5 @@ Melodot was inspired by the story of Gregory Coleman the drummer in the group Th
 Melodot is the solution to this horrible problem that aims to fractionalise a creators music into the individual beats, notes and syllables and protect the most atomic part of the music, and with the use of NFT's and smart contracts the rights to this intellectual property can be sold and transferred allowing for royalties and rewards to go to the original creator. 
 
 A demo of the application:
-https://github.com/jjjutla/Melodot/blob/main/Melodot%20Demo.mp4
+[![Watch the video](https://img.youtube.com/vi/1BiVWuq7SzI/maxresdefault.jpg)](https://youtu.be/1BiVWuq7SzI)
 
