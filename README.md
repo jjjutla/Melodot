@@ -16,7 +16,7 @@ This demo shows how u can upload a track to the Parachain and validate it with a
 [![Watch the video](https://img.youtube.com/vi/1BiVWuq7SzI/maxresdefault.jpg)](https://youtu.be/1BiVWuq7SzI)
 
 ------------
-## Technicals![Uploading icon-removebg-preview.png…]()
+## Technicals
 
 - Parachain: As seen in the demo its developed on a substrrate node which can be mved to a parachain template and tested on Rococo by running multiple of these nodes and a collator 
 - Security and Storage: All of these nodes are stored on web3storagr and the CryptoJS library is used to encrypto the files.
