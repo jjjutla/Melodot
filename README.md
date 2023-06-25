@@ -1,6 +1,8 @@
 # Melodot
 
-<img width="247" alt="icon-removebg-preview" src="https://github.com/jjjutla/Melodot/assets/22000925/ec29403e-395e-455e-ba00-dd230257d3fe">
+<p align="center">
+  <img width="247" alt="icon-removebg-preview" src="https://github.com/jjjutla/Melodot/assets/22000925/ec29403e-395e-455e-ba00-dd230257d3fe">
+</p>
 
 
 ## Inspiration:
