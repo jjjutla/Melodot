@@ -1,0 +1,15 @@
+cargo:rustc-cfg=feature="arm64"
+cargo:rerun-if-changed=build.rs
+Writing generated file: /Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/build/cranelift-codegen-214ae433dca9e7df/out/settings.rs
+Writing generated file: /Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/build/cranelift-codegen-214ae433dca9e7df/out/types.rs
+Writing generated file: /Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/build/cranelift-codegen-214ae433dca9e7df/out/opcodes.rs
+Writing generated file: /Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/build/cranelift-codegen-214ae433dca9e7df/out/inst_builder.rs
+Writing generated file: /Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/build/cranelift-codegen-214ae433dca9e7df/out/settings-arm64.rs
+cargo:rerun-if-changed=src/clif.isle
+cargo:rerun-if-changed=src/prelude.isle
+cargo:rerun-if-changed=src/isa/x64/inst.isle
+cargo:rerun-if-changed=src/isa/x64/lower.isle
+cargo:rerun-if-changed=src/clif.isle
+cargo:rerun-if-changed=src/prelude.isle
+cargo:rerun-if-changed=src/isa/aarch64/inst.isle
+cargo:rerun-if-changed=src/isa/aarch64/lower.isle

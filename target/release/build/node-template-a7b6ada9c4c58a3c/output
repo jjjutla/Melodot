@@ -1,0 +1,4 @@
+cargo:rustc-env=SUBSTRATE_CLI_IMPL_VERSION=4.0.0-dev-8bfcb52-aarch64-macos
+cargo:rerun-if-changed=/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/.git/HEAD
+cargo:rerun-if-changed=/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/.git/refs/heads/master
+

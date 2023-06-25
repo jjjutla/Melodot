@@ -1,0 +1,1 @@
+{"rustc":17004773524947412777,"features":"[\"default\", \"std\"]","target":15290181118864656736,"profile":6269190295429226618,"path":2130361699420235484,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/bimap-58de87cb8e1d848e/dep-lib-bimap"}}],"rustflags":[],"metadata":6615305047714463914,"config":2202906307356721367,"compile_kind":0}

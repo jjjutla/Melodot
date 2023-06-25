@@ -1,0 +1,167 @@
+[0m[0m[1m[32m   Compiling[0m proc-macro2 v1.0.36
+[0m[0m[1m[32m   Compiling[0m unicode-xid v0.2.2
+[0m[0m[1m[32m   Compiling[0m syn v1.0.86
+[0m[0m[1m[32m   Compiling[0m quote v1.0.15
+[0m[0m[1m[32m   Compiling[0m serde_derive v1.0.136
+[0m[0m[1m[32m   Compiling[0m serde v1.0.136
+[0m[0m[1m[32m   Compiling[0m byte-slice-cast v1.2.1
+[0m[0m[1m[32m   Compiling[0m arrayvec v0.7.2
+[0m[0m[1m[32m   Compiling[0m crunchy v0.2.2
+[0m[0m[1m[32m   Compiling[0m memchr v2.4.1
+[0m[0m[1m[32m   Compiling[0m libc v0.2.119
+[0m[0m[1m[32m   Compiling[0m cfg-if v1.0.0
+[0m[0m[1m[32m   Compiling[0m serde_json v1.0.79
+[0m[0m[1m[32m   Compiling[0m regex-syntax v0.6.25
+[0m[0m[1m[32m   Compiling[0m aho-corasick v0.7.18
+[0m[0m[1m[32m   Compiling[0m ryu v1.0.9
+[0m[0m[1m[32m   Compiling[0m itoa v1.0.1
+[0m[0m[1m[32m   Compiling[0m log v0.4.14
+[0m[0m[1m[32m   Compiling[0m regex v1.5.5
+[0m[0m[1m[32m   Compiling[0m lazy_static v1.4.0
+[0m[0m[1m[32m   Compiling[0m pin-project-lite v0.2.8
+[0m[0m[1m[32m   Compiling[0m static_assertions v1.1.0
+[0m[0m[1m[32m   Compiling[0m autocfg v1.1.0
+[0m[0m[1m[32m   Compiling[0m sp-std v4.0.0 (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m Inflector v0.11.4
+[0m[0m[1m[32m   Compiling[0m hex v0.4.3
+[0m[0m[1m[32m   Compiling[0m byteorder v1.4.3
+[0m[0m[1m[32m   Compiling[0m ref-cast v1.0.6
+[0m[0m[1m[32m   Compiling[0m uint v0.9.3
+[0m[0m[1m[32m   Compiling[0m num-traits v0.2.14
+[0m[0m[1m[32m   Compiling[0m fixed-hash v0.7.0
+[0m[0m[1m[32m   Compiling[0m tracing-core v0.1.23
+[0m[0m[1m[32m   Compiling[0m synstructure v0.12.6
+[0m[0m[1m[32m   Compiling[0m thiserror-impl v1.0.30
+[0m[0m[1m[32m   Compiling[0m impl-trait-for-tuples v0.2.2
+[0m[0m[1m[32m   Compiling[0m derive_more v0.99.17
+[0m[0m[1m[32m   Compiling[0m ref-cast-impl v1.0.6
+[0m[0m[1m[32m   Compiling[0m sp-debug-derive v4.0.0 (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m thiserror v1.0.30
+[0m[0m[1m[32m   Compiling[0m tracing v0.1.32
+[0m[0m[1m[32m   Compiling[0m parity-util-mem v0.10.2
+[0m[0m[1m[32m   Compiling[0m parity-util-mem-derive v0.1.0
+[0m[0m[1m[32m   Compiling[0m version_check v0.9.4
+[0m[0m[1m[32m   Compiling[0m zeroize v1.5.3
+[0m[0m[1m[32m   Compiling[0m typenum v1.15.0
+[0m[0m[1m[32m   Compiling[0m secrecy v0.8.0
+[0m[0m[1m[32m   Compiling[0m hash256-std-hasher v0.15.2
+[0m[0m[1m[32m   Compiling[0m hash-db v0.15.2
+[0m[0m[1m[32m   Compiling[0m bitflags v1.3.2
+[0m[0m[1m[32m   Compiling[0m generic-array v0.14.5
+[0m[0m[1m[32m   Compiling[0m arrayvec v0.4.12
+[0m[0m[1m[32m   Compiling[0m integer-sqrt v0.1.5
+[0m[0m[1m[32m   Compiling[0m either v1.6.1
+[0m[0m[1m[32m   Compiling[0m nodrop v0.1.14
+[0m[0m[1m[32m   Compiling[0m paste v1.0.6
+[0m[0m[1m[32m   Compiling[0m radium v0.6.2
+[0m[0m[1m[32m   Compiling[0m tiny-keccak v2.0.2
+[0m[0m[1m[32m   Compiling[0m constant_time_eq v0.1.5
+[0m[0m[1m[32m   Compiling[0m cpufeatures v0.2.1
+[0m[0m[1m[32m   Compiling[0m blake2-rfc v0.2.18
+[0m[0m[1m[32m   Compiling[0m twox-hash v1.6.2
+[0m[0m[1m[32m   Compiling[0m wyz v0.2.0
+[0m[0m[1m[32m   Compiling[0m block-buffer v0.10.2
+[0m[0m[1m[32m   Compiling[0m crypto-common v0.1.3
+[0m[0m[1m[32m   Compiling[0m tap v1.0.1
+[0m[0m[1m[32m   Compiling[0m funty v1.1.0
+[0m[0m[1m[32m   Compiling[0m toml v0.5.8
+[0m[0m[1m[32m   Compiling[0m digest v0.10.3
+[0m[0m[1m[32m   Compiling[0m frame-support-procedural-tools-derive v3.0.0 (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m sha2 v0.10.2
+[0m[0m[1m[32m   Compiling[0m smallvec v1.8.0
+[0m[0m[1m[32m   Compiling[0m sp-core-hashing v4.0.0 (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m bitvec v0.20.4
+[0m[0m[1m[32m   Compiling[0m sp-core-hashing-proc-macro v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m tt-call v1.0.8
+[0m[0m[1m[32m   Compiling[0m proc-macro-crate v1.1.3
+[0m[0m[1m[32m   Compiling[0m ss58-registry v1.15.0
+[0m[0m[1m[32m   Compiling[0m jobserver v0.1.24
+[0m[0m[1m[32m   Compiling[0m frame-support-procedural-tools v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m parity-scale-codec-derive v2.3.1
+[0m[0m[1m[32m   Compiling[0m scale-info-derive v1.0.0
+[0m[0m[1m[32m   Compiling[0m sp-runtime-interface-proc-macro v4.0.0 (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m sp-api-proc-macro v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m frame-support-procedural v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m cc v1.0.73
+[0m[0m[1m[32m   Compiling[0m futures-core v0.3.21
+[0m[0m[1m[32m   Compiling[0m parity-scale-codec v2.3.1
+[0m[0m[1m[32m   Compiling[0m zstd-sys v1.6.2+zstd.1.5.1
+[0m[0m[1m[32m   Compiling[0m scale-info v1.0.0
+[0m[0m[1m[32m   Compiling[0m impl-codec v0.5.1
+[0m[0m[1m[32m   Compiling[0m sp-storage v5.0.0 (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m sp-wasm-interface v5.0.0 (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m sp-tracing v4.0.0 (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m sp-version-proc-macro v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m futures-task v0.3.21
+[0m[0m[1m[32m   Compiling[0m zstd-safe v4.1.3+zstd.1.5.1
+[0m[0m[1m[32m   Compiling[0m rustversion v1.0.6
+[0m[0m[1m[32m   Compiling[0m primitive-types v0.10.1
+[0m[0m[1m[32m   Compiling[0m sp-arithmetic v4.0.0 (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m frame-metadata v14.2.0
+[0m[0m[1m[32m   Compiling[0m sp-runtime-interface v5.0.0 (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m semver v1.0.6
+[0m[0m[1m[32m   Compiling[0m futures-sink v0.3.21
+[0m[0m[1m[32m   Compiling[0m futures-util v0.3.21
+[0m[0m[1m[32m   Compiling[0m camino v1.0.7
+[0m[0m[1m[32m   Compiling[0m unicode-segmentation v1.9.0
+[0m[0m[1m[32m   Compiling[0m futures-channel v0.3.21
+[0m[0m[1m[32m   Compiling[0m heck v0.3.3
+[0m[0m[1m[32m   Compiling[0m sp-core v5.0.0 (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m semver-parser v0.7.0
+[0m[0m[1m[32m   Compiling[0m pin-utils v0.1.0
+[0m[0m[1m[32m   Compiling[0m semver v0.6.0
+[0m[0m[1m[32m   Compiling[0m sp-io v5.0.0 (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m sp-inherents v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m strum_macros v0.23.1
+[0m[0m[1m[32m   Compiling[0m cargo-platform v0.1.2
+[0m[0m[1m[32m   Compiling[0m parity-wasm v0.32.0
+[0m[0m[1m[32m   Compiling[0m sp-application-crypto v5.0.0 (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m futures-io v0.3.21
+[0m[0m[1m[32m   Compiling[0m rustc-demangle v0.1.21
+[0m[0m[1m[32m   Compiling[0m remove_dir_all v0.5.3
+[0m[0m[1m[32m   Compiling[0m same-file v1.0.6
+[0m[0m[1m[32m   Compiling[0m sp-runtime v5.0.0 (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m fastrand v1.7.0
+[0m[0m[1m[32m   Compiling[0m futures v0.3.21
+[0m[0m[1m[32m   Compiling[0m strum v0.23.0
+[0m[0m[1m[32m   Compiling[0m walkdir v2.3.2
+[0m[0m[1m[32m   Compiling[0m cargo_metadata v0.14.2
+[0m[0m[1m[32m   Compiling[0m wasm-gc-api v0.1.11
+[0m[0m[1m[32m   Compiling[0m build-helper v0.1.1
+[0m[0m[1m[32m   Compiling[0m tempfile v3.3.0
+[0m[0m[1m[32m   Compiling[0m ansi_term v0.12.1
+[0m[0m[1m[32m   Compiling[0m finality-grandpa v0.14.4
+[0m[0m[1m[32m   Compiling[0m safe-mix v1.0.1
+[0m[0m[1m[32m   Compiling[0m sp-version v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m sp-staking v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m sp-api v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m frame-support v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m sp-consensus-slots v0.10.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m sp-authorship v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m sp-timestamp v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m sp-session v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m sp-consensus-aura v0.10.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m sp-finality-grandpa v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m sp-block-builder v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m sp-offchain v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m frame-system-rpc-runtime-api v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m sp-transaction-pool v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m zstd v0.9.2+zstd.1.5.1
+[0m[0m[1m[32m   Compiling[0m sp-maybe-compressed-blob v4.1.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m frame-system v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m substrate-wasm-builder v5.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m pallet-timestamp v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m pallet-session v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m pallet-transaction-payment v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m node-template-runtime v4.0.0-dev (/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/runtime)
+[0m[0m[1m[32m   Compiling[0m pallet-authorship v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m pallet-transaction-payment-rpc-runtime-api v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m pallet-aura v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m pallet-randomness-collective-flip v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m pallet-template v4.0.0-dev (/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/pallets/template)
+[0m[0m[1m[32m   Compiling[0m frame-executive v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m pallet-sudo v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m pallet-balances v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m pallet-grandpa v4.0.0-dev (https://github.com/paritytech/substrate.git?branch=polkadot-v0.9.17#22d40c76)
+[0m[0m[1m[32m   Compiling[0m node-template-runtime-wasm v1.0.0 (/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/wbuild/node-template-runtime)
+[0m[0m[1m[32m    Finished[0m release [optimized] target(s) in 55.79s

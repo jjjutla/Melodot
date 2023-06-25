@@ -1,0 +1,27 @@
+[dependencies.wasm-project]
+default-features = false
+features = []
+package = 'node-template-runtime'
+path = '/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/runtime'
+
+[lib]
+crate-type = ['cdylib']
+name = 'node_template_runtime'
+
+[package]
+edition = '2021'
+name = 'node-template-runtime-wasm'
+version = '1.0.0'
+[profile.dev]
+panic = 'abort'
+
+[profile.production]
+codegen-units = 1
+inherits = 'release'
+lto = 'fat'
+
+[profile.release]
+lto = 'thin'
+panic = 'abort'
+
+[workspace]

@@ -1,0 +1,2 @@
+cargo:rustc-cfg=rustc_attrs
+cargo:rerun-if-changed=build.rs

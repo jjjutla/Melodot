@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/build/typenum-eb2bfc675e24baab/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/build/typenum-eb2bfc675e24baab/out/op.rs

@@ -1,0 +1,10 @@
+cargo:rerun-if-changed=build.rs
+cargo:rustc-cfg=vec_into_raw_parts
+cargo:rustc-cfg=toowned_clone_into
+cargo:rustc-cfg=rustc_attrs
+cargo:rustc-cfg=specialization
+cargo:rustc-cfg=slice_internals
+cargo:rustc-cfg=const_raw_ptr_deref
+cargo:rerun-if-env-changed=CARGO_CFG_TARGET_ARCH
+cargo:rustc-cfg=libc
+cargo:rerun-if-env-changed=CARGO_CFG_RUSTIX_USE_LIBC

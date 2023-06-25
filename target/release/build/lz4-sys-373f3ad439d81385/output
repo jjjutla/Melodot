@@ -1,0 +1,32 @@
+TARGET = Some("aarch64-apple-darwin")
+HOST = Some("aarch64-apple-darwin")
+CC_aarch64-apple-darwin = None
+CC_aarch64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_aarch64-apple-darwin = None
+CFLAGS_aarch64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("false")
+CARGO_CFG_TARGET_FEATURE = Some("aes,crc,dit,dotprod,dpb,dpb2,fcma,fhm,flagm,fp16,frintts,jsconv,llvm14-builtins-abi,lor,lse,neon,paca,pacg,pan,pmuv3,ras,rcpc,rcpc2,rdm,sb,sha2,sha3,ssbs,v8.1a,v8.2a,v8.3a,v8.4a,vh")
+running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-arch" "arm64" "-Wall" "-Wextra" "-o" "/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/build/lz4-sys-373f3ad439d81385/out/liblz4/lib/lz4.o" "-c" "liblz4/lib/lz4.c"
+exit status: 0
+running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-arch" "arm64" "-Wall" "-Wextra" "-o" "/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/build/lz4-sys-373f3ad439d81385/out/liblz4/lib/lz4frame.o" "-c" "liblz4/lib/lz4frame.c"
+exit status: 0
+running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-arch" "arm64" "-Wall" "-Wextra" "-o" "/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/build/lz4-sys-373f3ad439d81385/out/liblz4/lib/lz4hc.o" "-c" "liblz4/lib/lz4hc.c"
+exit status: 0
+running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-arch" "arm64" "-Wall" "-Wextra" "-o" "/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/build/lz4-sys-373f3ad439d81385/out/liblz4/lib/xxhash.o" "-c" "liblz4/lib/xxhash.c"
+exit status: 0
+AR_aarch64-apple-darwin = None
+AR_aarch64_apple_darwin = None
+HOST_AR = None
+AR = None
+running: ZERO_AR_DATE="1" "ar" "cq" "/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/build/lz4-sys-373f3ad439d81385/out/liblz4.a" "/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/build/lz4-sys-373f3ad439d81385/out/liblz4/lib/lz4.o" "/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/build/lz4-sys-373f3ad439d81385/out/liblz4/lib/lz4frame.o" "/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/build/lz4-sys-373f3ad439d81385/out/liblz4/lib/lz4hc.o" "/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/build/lz4-sys-373f3ad439d81385/out/liblz4/lib/xxhash.o"
+exit status: 0
+running: "ar" "s" "/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/build/lz4-sys-373f3ad439d81385/out/liblz4.a"
+exit status: 0
+cargo:rustc-link-lib=static=lz4
+cargo:rustc-link-search=native=/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/build/lz4-sys-373f3ad439d81385/out
+cargo:root=/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/build/lz4-sys-373f3ad439d81385/out

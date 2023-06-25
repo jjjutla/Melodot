@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/wbuild/node-template-runtime/target/release/build/typenum-a56e6931ff2addeb/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/jeevanjutla/Documents/PolkadotHackathon/metadata-layer/target/release/wbuild/node-template-runtime/target/release/build/typenum-a56e6931ff2addeb/out/op.rs
