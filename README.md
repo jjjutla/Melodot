@@ -11,7 +11,7 @@ Modified HTML layout with EasyA image next to stars
         <img src="https://img.shields.io/github/stars/jjjutla/melodot?style=social" alt="GitHub stars"/>
         <span style="margin: 0 10px; color: white; font-size: 14px;"></span>
         <a href="https://www.easya.io/">
-            <img src="https://github.com/user-attachments/assets/09cfc307-f04f-4225-8c3b-bc96c47583a6" alt="EasyA" style="height: 20px;"/>
+            <img src="https://github.com/user-attachments/assets/09cfc307-f04f-4225-8c3b-bc96c47583a6" alt="EasyA" style="height: 21px;"/>
         </a>
     </span>
 </p>
