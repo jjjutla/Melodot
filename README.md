@@ -1,4 +1,3 @@
-<p align="center">
 <br />
     <img src="https://github.com/user-attachments/assets/7e6b3290-e34f-4bc5-942e-2f88d1a50f84" width="400" alt=""/>
 <br />
@@ -10,6 +9,12 @@
         <img src="https://github.com/user-attachments/assets/09cfc307-f04f-4225-8c3b-bc96c47583a6" width="175" alt=""/></a>
     <br />
 </p>
+<p align="center">
+    <a href="https://github.com/jjjutla/melodot/stargazers">
+        <img src="https://img.shields.io/github/stars/jjjutla/melodot?style=social" alt="GitHub stars"/>
+    </a>
+</p>
+
 
 ---
 
