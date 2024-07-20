@@ -11,6 +11,17 @@
     <br />
 </p>
 
+---
+
+<div align="center">
+
+[![Stargazers][stars-shield]][stars-url] [![Forks][forks-shield]][forks-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Issues][issues-shield]][issues-url]
+[![GPL-3.0 License][license-shield]][license-url]
+
+</div>
+
 
 
 ## Inspiration:
