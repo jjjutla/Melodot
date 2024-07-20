@@ -13,14 +13,6 @@
 
 ---
 
-<div align="center">
-
-[![Stargazers][stars-shield]][stars-url] [![Forks][forks-shield]][forks-url]
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-[![GPL-3.0 License][license-shield]][license-url]
-
-</div>
 
 
 
@@ -49,14 +41,3 @@ At the micro level, a single beat, syllable, note or bass is a pieice of Intelle
 
 
 
-
-[contributors-shield]: https://img.shields.io/github/contributors/jjjutla/melodot/
-[contributors-url]: https://github.com/jjjutla/melodot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks//jjjutla/melodot/
-[forks-url]: https://github.com/jjjutla/melodot/network/members
-[stars-shield]: https://img.shields.io/github/stars/jjjutla/melodot/
-[stars-url]: https://github.com/jjjutla/melodot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jjjutla/melodot/
-[issues-url]: https://github.com/jjjutla/melodot/issues
-[license-shield]: https://img.shields.io/github/license/jjjutla/melodot/?logoColor=%23fff&color=blue
-[license-url]: https://github.com/jjjutla/melodot/blob/master/LICENSE
