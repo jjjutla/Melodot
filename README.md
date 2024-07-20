@@ -1,3 +1,5 @@
+Modified HTML layout with EasyA image next to stars
+
 <p align="center">
 <br />
     <img src="https://github.com/user-attachments/assets/7e6b3290-e34f-4bc5-942e-2f88d1a50f84" width="400" alt=""/>
@@ -7,8 +9,10 @@
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
     <span style="display: inline-flex; align-items: center; background-color: #1c1c1c; padding: 5px; border-radius: 6px;">
         <img src="https://img.shields.io/github/stars/jjjutla/melodot?style=social" alt="GitHub stars"/>
-        <span style="margin: 0 10px; color: white; font-size: 14px;"></span>
-        <img src="https://github.com/user-attachments/assets/09cfc307-f04f-4225-8c3b-bc96c47583a6" alt="EasyA" style="height: 20px;"/>
+        <span style="margin: 0 10px; color: white; font-size: 14px;">Built using</span>
+        <a href="https://www.easya.io/">
+            <img src="https://github.com/user-attachments/assets/09cfc307-f04f-4225-8c3b-bc96c47583a6" alt="EasyA" style="height: 20px;"/>
+        </a>
     </span>
 </p>
 
