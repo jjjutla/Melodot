@@ -1,8 +1,17 @@
-# Melodot
-
 <p align="center">
-  <img width="247" alt="icon-removebg-preview" src="https://github.com/jjjutla/Melodot/assets/22000925/ec29403e-395e-455e-ba00-dd230257d3fe">
+    <br />
+        <img src="https://github.com/user-attachments/assets/7e6b3290-e34f-4bc5-942e-2f88d1a50f84" width="400" alt=""/></a>
+    <br />
 </p>
+<p align="center"><strong>Decentralised AI Generated Music.
+</strong></p>
+<p align="center">
+    <br />
+    <a href="https://www.easya.io/">
+        <img src="https://github.com/user-attachments/assets/ad87c511-9fa9-44e7-b72f-976e75f4da0e" width="145" alt=""/></a>
+    <br />
+</p>
+
 
 
 ## Inspiration:
