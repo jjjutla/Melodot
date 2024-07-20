@@ -44,3 +44,19 @@ This demo shows how u can upload a track to the Parachain and validate it with a
 - NFT: As Substrate does not have a predefined [NFT standard](https://github.com/paritytech/substrate/tree/master/frame/nfts) so the structure of the NFT is defined using a struct. A substrate pallet is used to handle the logic for creating and transferring the NFTs and a mint and transfer function is used to control them.
 
 At the micro level, a single beat, syllable, note or bass is a pieice of Intellectual property worthy of protection. Melodot is designed to secure the creation of metadata behind every part of every song and provide encrypted file distribution to give creators full control over their music assets and include the audio fingerprint of every component as part of a decentralised network.
+
+
+
+
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/jjjutla/melodot/
+[contributors-url]: https://github.com/jjjutla/melodot/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks//jjjutla/melodot/
+[forks-url]: https://github.com/jjjutla/melodot/network/members
+[stars-shield]: https://img.shields.io/github/stars/jjjutla/melodot/
+[stars-url]: https://github.com/jjjutla/melodot/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jjjutla/melodot/
+[issues-url]: https://github.com/jjjutla/melodot/issues
+[license-shield]: https://img.shields.io/github/license/jjjutla/melodot/?logoColor=%23fff&color=blue
+[license-url]: https://github.com/jjjutla/melodot/blob/master/LICENSE
