@@ -5,17 +5,15 @@
 </p>
 <p align="center"><strong style="font-size: 24px;">Decentralised AI Generated Music.</strong></p>
 <p align="center">
-    <br />
-    <a href="https://www.easya.io/">
-        <img src="https://github.com/user-attachments/assets/09cfc307-f04f-4225-8c3b-bc96c47583a6" width="175" alt=""/></a>
-    <br />
+
 </p>
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
     <img src="https://img.shields.io/github/stars/jjjutla/melodot?style=social" alt="GitHub stars"/>
     <a href="https://www.easya.io/" style="margin-left: 10px;">
-        <img src="https://github.com/user-attachments/assets/09cfc307-f04f-4225-8c3b-bc96c47583a6" width="30" alt="EasyA"/>
+        <img src="https://github.com/user-attachments/assets/09cfc307-f04f-4225-8c3b-bc96c47583a6" width="175" alt="EasyA"/>
     </a>
 </p>
+
 ---
 
 
