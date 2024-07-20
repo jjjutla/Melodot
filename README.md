@@ -8,9 +8,10 @@
 <p align="center">
     <br />
     <a href="https://www.easya.io/">
-        <img src="https://github.com/user-attachments/assets/ad87c511-9fa9-44e7-b72f-976e75f4da0e" width="145" alt=""/></a>
+        <img src="https://github.com/user-attachments/assets/2ba9ba72-5daf-4b33-ae5e-f0bc0c914daa" width="145" alt=""/></a>
     <br />
 </p>
+
 
 
 
