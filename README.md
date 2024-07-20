@@ -8,7 +8,7 @@
 <p align="center">
     <br />
     <a href="https://www.easya.io/">
-        <img src="https://github.com/user-attachments/assets/2ba9ba72-5daf-4b33-ae5e-f0bc0c914daa" width="145" alt=""/></a>
+        <img src="https://github.com/user-attachments/assets/09cfc307-f04f-4225-8c3b-bc96c47583a6" width="145" alt=""/></a>
     <br />
 </p>
 
