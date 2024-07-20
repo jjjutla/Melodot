@@ -4,18 +4,14 @@
 <br />
 </p>
 <p align="center"><strong style="font-size: 24px;">Decentralised AI Generated Music.</strong></p>
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; align-items: center; background-color: #1a1a1a; padding: 5px; border-radius: 6px; width: fit-content; margin: 20px auto;">
+    <img src="https://img.shields.io/github/stars/jjjutla/melodot?style=social" alt="GitHub stars" style="height: 20px;"/>
+    <span style="margin: 0 10px; color: white; font-size: 14px;">Built using</span>
+    <img src="https://github.com/user-attachments/assets/09cfc307-f04f-4225-8c3b-bc96c47583a6" alt="EasyA" style="height: 20px;"/>
+</p>
 
-</p>
-<p align="center" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://img.shields.io/github/stars/jjjutla/melodot?style=social" alt="GitHub stars"/>
-    <a href="https://www.easya.io/" style="margin-left: 10px;">
-        <img src="https://github.com/user-attachments/assets/09cfc307-f04f-4225-8c3b-bc96c47583a6" width="175" alt="EasyA"/>
-    </a>
-</p>
 
 ---
-
 
 
 
