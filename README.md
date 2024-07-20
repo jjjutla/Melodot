@@ -1,5 +1,3 @@
-Modified HTML layout with EasyA image next to stars
-
 <p align="center">
 <br />
     <img src="https://github.com/user-attachments/assets/7e6b3290-e34f-4bc5-942e-2f88d1a50f84" width="400" alt=""/>
