@@ -1,10 +1,9 @@
 <p align="center">
-    <br />
-        <img src="https://github.com/user-attachments/assets/7e6b3290-e34f-4bc5-942e-2f88d1a50f84" width="400" alt=""/></a>
-    <br />
+<br />
+    <img src="https://github.com/user-attachments/assets/7e6b3290-e34f-4bc5-942e-2f88d1a50f84" width="400" alt=""/>
+<br />
 </p>
-<p align="center"><strong>Decentralised AI Generated Music.
-</strong></p>
+<p align="center"><strong style="font-size: 24px;">Decentralised AI Generated Music.</strong></p>
 <p align="center">
     <br />
     <a href="https://www.easya.io/">
