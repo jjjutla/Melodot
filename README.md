@@ -43,8 +43,6 @@ Melodot is a decentralized application designed to solve music copyright issues 
 <img width="1512" alt="img5" src="https://github.com/user-attachments/assets/4f4b0a4e-36b6-400a-bc2b-dd2540470729">
 
 
-
-### Roadmap
 ### Roadmap
 
 - [x] Develop Metadata Layer and Parachain for Artists to Upload Music Assets
