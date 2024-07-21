@@ -20,9 +20,9 @@
 Melodot is a decentralized application designed to solve music copyright issues and protect artists' intellectual property. It fractionalizes music into individual beats, notes, and syllables, converting them into NFTs to ensure proper usage and enable royalty payments. Melodot also empowers artists to create truly royalty-free AI-generated music and verify its originality. By using a binary tree structure to break down music assets and employing Meta OSS AudioCraft for AI music generation, the platform conducts similarity analysis with Vector DB. Additionally, Melodot integrates OriginTrail for decentralized storage and provenance tracking, providing a robust solution for managing and safeguarding music rights in the digital era.
 
 ### Features
-- **Parachain:** Developed on a Substrate node based off the template with modifications to the [runtime] and [pallets]. This can be tested on Rococo by running multiple of these nodes and a collator.
-- **Binary Tree:** Music files are recursively converted into a [binary tree] to organise the stems into their individual components.
-- **Custom Music NFT Standard:** Defined using a [struct], a substrate pallet is used to handle the logic for creating and transferring them.
+- **Parachain:** Developed on a Substrate node based off the template with modifications to the [runtime](https://github.com/jjjutla/melodot/blob/main/backend/runtime/src/lib.rs) and [pallets](https://github.com/jjjutla/melodot/blob/main/backend/pallets/src/lib.rs). This can be tested on Rococo by running multiple of these nodes and a collator.
+- **Binary Tree:** Music files are recursively converted into a [binary tree](https://github.com/jjjutla/melodot/blob/main/frontend/src/utils/binaryTreeGen.ts) to organise the stems into their individual components.
+- **Custom Music NFT Standard:** Defined using a struct, a substrate pallet is used to handle the logic for creating and transferring them.
 - **PolkadotJS API:** Is used to connect the frontend to the Parachain.
 - **AI Generated Music:** Using Meta OSS AudioCraft Text-to-Music Model.
 - **Similarity Analysis:** Comparing vectorised binary trees using Vector DB and similarity search.
