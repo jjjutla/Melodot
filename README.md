@@ -28,6 +28,9 @@ Melodot is a decentralized application designed to solve music copyright issues 
 - **Similarity Analysis:** Comparing vectorised binary trees using Vector DB and similarity search.
 - **OriginTrail Integration:** For decentralised storage that tracks the origin and updates of the AI music to generate unique music tracks.
 
+![TechnicalArch](https://github.com/user-attachments/assets/97d516fb-e2ee-4e63-8dd1-031e3a98c1af)
+
+
 ### Demo
 - [Demo v1 ](https://www.youtube.com/watch?v=1BiVWuq7SzI)(25 Jun 2023)
 - [Demo v2](https://youtu.be/hxdMcE9n4cY) (21 July 2024) 
