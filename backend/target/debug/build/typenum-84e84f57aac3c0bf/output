@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/jj/Dev/Temp/melodot/target/debug/build/typenum-84e84f57aac3c0bf/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/jj/Dev/Temp/melodot/target/debug/build/typenum-84e84f57aac3c0bf/out/op.rs

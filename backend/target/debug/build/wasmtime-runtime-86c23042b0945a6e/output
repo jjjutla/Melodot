@@ -1,0 +1,27 @@
+cargo:rerun-if-changed=src/helpers.c
+TARGET = Some("aarch64-apple-darwin")
+OPT_LEVEL = Some("0")
+HOST = Some("aarch64-apple-darwin")
+CC_aarch64-apple-darwin = None
+CC_aarch64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_aarch64-apple-darwin = None
+CFLAGS_aarch64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("aes,crc,dit,dotprod,dpb,dpb2,fcma,fhm,flagm,fp16,frintts,jsconv,lor,lse,neon,paca,pacg,pan,pmuv3,ras,rcpc,rcpc2,rdm,sb,sha2,sha3,ssbs,v8.1a,v8.2a,v8.3a,v8.4a,vh")
+running: env -u IPHONEOS_DEPLOYMENT_TARGET "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-arch" "arm64" "-Wall" "-Wextra" "-DCFG_TARGET_OS_macos" "-o" "/Users/jj/Dev/Temp/melodot/target/debug/build/wasmtime-runtime-86c23042b0945a6e/out/src/helpers.o" "-c" "src/helpers.c"
+exit status: 0
+AR_aarch64-apple-darwin = None
+AR_aarch64_apple_darwin = None
+HOST_AR = None
+AR = None
+running: ZERO_AR_DATE="1" "ar" "cq" "/Users/jj/Dev/Temp/melodot/target/debug/build/wasmtime-runtime-86c23042b0945a6e/out/libwasmtime-helpers.a" "/Users/jj/Dev/Temp/melodot/target/debug/build/wasmtime-runtime-86c23042b0945a6e/out/src/helpers.o"
+exit status: 0
+running: "ar" "s" "/Users/jj/Dev/Temp/melodot/target/debug/build/wasmtime-runtime-86c23042b0945a6e/out/libwasmtime-helpers.a"
+exit status: 0
+cargo:rustc-link-lib=static=wasmtime-helpers
+cargo:rustc-link-search=native=/Users/jj/Dev/Temp/melodot/target/debug/build/wasmtime-runtime-86c23042b0945a6e/out

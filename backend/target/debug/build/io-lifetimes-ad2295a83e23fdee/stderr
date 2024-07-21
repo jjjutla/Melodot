@@ -1,0 +1,11 @@
+warning: the feature `rustc_attrs` is internal to the compiler or standard library
+ --> <anon>:1:12
+  |
+1 | #![feature(rustc_attrs)]
+  |            ^^^^^^^^^^^
+  |
+  = note: using it is strongly discouraged
+  = note: `#[warn(internal_features)]` on by default
+
+warning: 1 warning emitted
+

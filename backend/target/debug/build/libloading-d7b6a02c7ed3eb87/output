@@ -1,0 +1,26 @@
+TARGET = Some("aarch64-apple-darwin")
+OPT_LEVEL = Some("0")
+HOST = Some("aarch64-apple-darwin")
+CC_aarch64-apple-darwin = None
+CC_aarch64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_aarch64-apple-darwin = None
+CFLAGS_aarch64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("aes,crc,dit,dotprod,dpb,dpb2,fcma,fhm,flagm,fp16,frintts,jsconv,lor,lse,neon,paca,pacg,pan,pmuv3,ras,rcpc,rcpc2,rdm,sb,sha2,sha3,ssbs,v8.1a,v8.2a,v8.3a,v8.4a,vh")
+running: env -u IPHONEOS_DEPLOYMENT_TARGET "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-arch" "arm64" "-Wall" "-Wextra" "-o" "/Users/jj/Dev/Temp/melodot/target/debug/build/libloading-d7b6a02c7ed3eb87/out/src/os/unix/global_static.o" "-c" "src/os/unix/global_static.c"
+exit status: 0
+AR_aarch64-apple-darwin = None
+AR_aarch64_apple_darwin = None
+HOST_AR = None
+AR = None
+running: ZERO_AR_DATE="1" "ar" "cq" "/Users/jj/Dev/Temp/melodot/target/debug/build/libloading-d7b6a02c7ed3eb87/out/libglobal_static.a" "/Users/jj/Dev/Temp/melodot/target/debug/build/libloading-d7b6a02c7ed3eb87/out/src/os/unix/global_static.o"
+exit status: 0
+running: "ar" "s" "/Users/jj/Dev/Temp/melodot/target/debug/build/libloading-d7b6a02c7ed3eb87/out/libglobal_static.a"
+exit status: 0
+cargo:rustc-link-lib=static=global_static
+cargo:rustc-link-search=native=/Users/jj/Dev/Temp/melodot/target/debug/build/libloading-d7b6a02c7ed3eb87/out

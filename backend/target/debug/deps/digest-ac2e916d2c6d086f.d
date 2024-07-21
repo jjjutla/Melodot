@@ -1,0 +1,11 @@
+/Users/jj/Dev/Temp/melodot/target/debug/deps/libdigest-ac2e916d2c6d086f.rmeta: /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/lib.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/core_api.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/core_api/ct_variable.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/core_api/rt_variable.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/core_api/wrapper.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/core_api/xof_reader.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/digest.rs
+
+/Users/jj/Dev/Temp/melodot/target/debug/deps/digest-ac2e916d2c6d086f.d: /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/lib.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/core_api.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/core_api/ct_variable.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/core_api/rt_variable.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/core_api/wrapper.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/core_api/xof_reader.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/digest.rs
+
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/lib.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/core_api.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/core_api/ct_variable.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/core_api/rt_variable.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/core_api/wrapper.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/core_api/xof_reader.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.3/src/digest.rs:

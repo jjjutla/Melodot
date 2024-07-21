@@ -1,0 +1,4 @@
+cargo:rustc-env=SUBSTRATE_CLI_IMPL_VERSION=4.0.0-dev-cecb16d-aarch64-macos
+cargo:rerun-if-changed=/Users/jj/Dev/Temp/melodot/.git/HEAD
+cargo:rerun-if-changed=/Users/jj/Dev/Temp/melodot/.git/refs/heads/main
+

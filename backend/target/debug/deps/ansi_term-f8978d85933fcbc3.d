@@ -1,0 +1,13 @@
+/Users/jj/Dev/Temp/melodot/target/debug/deps/libansi_term-f8978d85933fcbc3.rmeta: /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/lib.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/ansi.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/style.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/difference.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/display.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/write.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/windows.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/util.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/debug.rs
+
+/Users/jj/Dev/Temp/melodot/target/debug/deps/ansi_term-f8978d85933fcbc3.d: /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/lib.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/ansi.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/style.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/difference.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/display.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/write.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/windows.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/util.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/debug.rs
+
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/lib.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/ansi.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/style.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/difference.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/display.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/write.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/windows.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/util.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ansi_term-0.12.1/src/debug.rs:

@@ -1,0 +1,11 @@
+/Users/jj/Dev/Temp/melodot/target/debug/deps/libunicode_segmentation-61bec60629b4b877.rmeta: /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/lib.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/grapheme.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/sentence.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/word.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/tables.rs
+
+/Users/jj/Dev/Temp/melodot/target/debug/deps/libunicode_segmentation-61bec60629b4b877.rlib: /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/lib.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/grapheme.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/sentence.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/word.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/tables.rs
+
+/Users/jj/Dev/Temp/melodot/target/debug/deps/unicode_segmentation-61bec60629b4b877.d: /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/lib.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/grapheme.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/sentence.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/word.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/tables.rs
+
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/lib.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/grapheme.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/sentence.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/word.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicode-segmentation-1.9.0/src/tables.rs:

@@ -1,0 +1,10 @@
+/Users/jj/Dev/Temp/melodot/target/debug/deps/libwasm_instrument-4aa60c34c750ee5d.rmeta: /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-instrument-0.1.1/src/lib.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-instrument-0.1.1/src/export_globals.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-instrument-0.1.1/src/gas_metering/mod.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-instrument-0.1.1/src/stack_limiter/mod.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-instrument-0.1.1/src/stack_limiter/max_height.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-instrument-0.1.1/src/stack_limiter/thunk.rs
+
+/Users/jj/Dev/Temp/melodot/target/debug/deps/wasm_instrument-4aa60c34c750ee5d.d: /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-instrument-0.1.1/src/lib.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-instrument-0.1.1/src/export_globals.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-instrument-0.1.1/src/gas_metering/mod.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-instrument-0.1.1/src/stack_limiter/mod.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-instrument-0.1.1/src/stack_limiter/max_height.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-instrument-0.1.1/src/stack_limiter/thunk.rs
+
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-instrument-0.1.1/src/lib.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-instrument-0.1.1/src/export_globals.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-instrument-0.1.1/src/gas_metering/mod.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-instrument-0.1.1/src/stack_limiter/mod.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-instrument-0.1.1/src/stack_limiter/max_height.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-instrument-0.1.1/src/stack_limiter/thunk.rs:

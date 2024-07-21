@@ -1,0 +1,11 @@
+/Users/jj/Dev/Temp/melodot/target/debug/deps/libfutures_task-bd3b2318eb82e60f.rmeta: /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/lib.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/spawn.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/arc_wake.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/waker.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/waker_ref.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/future_obj.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/noop_waker.rs
+
+/Users/jj/Dev/Temp/melodot/target/debug/deps/futures_task-bd3b2318eb82e60f.d: /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/lib.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/spawn.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/arc_wake.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/waker.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/waker_ref.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/future_obj.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/noop_waker.rs
+
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/lib.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/spawn.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/arc_wake.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/waker.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/waker_ref.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/future_obj.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-task-0.3.21/src/noop_waker.rs:

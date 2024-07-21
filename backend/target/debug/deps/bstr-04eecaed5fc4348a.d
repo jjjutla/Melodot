@@ -1,0 +1,15 @@
+/Users/jj/Dev/Temp/melodot/target/debug/deps/libbstr-04eecaed5fc4348a.rmeta: /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/lib.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/ascii.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/bstr.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/bstring.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/byteset/mod.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/byteset/scalar.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/ext_slice.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/ext_vec.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/impls.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/io.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/utf8.rs
+
+/Users/jj/Dev/Temp/melodot/target/debug/deps/bstr-04eecaed5fc4348a.d: /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/lib.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/ascii.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/bstr.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/bstring.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/byteset/mod.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/byteset/scalar.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/ext_slice.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/ext_vec.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/impls.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/io.rs /Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/utf8.rs
+
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/lib.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/ascii.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/bstr.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/bstring.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/byteset/mod.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/byteset/scalar.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/ext_slice.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/ext_vec.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/impls.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/io.rs:
+/Users/jj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bstr-0.2.17/src/utf8.rs:
