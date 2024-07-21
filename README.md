@@ -68,5 +68,5 @@ Melodot is a decentralized application designed to solve music copyright issues 
 - [OriginTrail Whitepaper](https://origintrail.io/documents/OriginTrail_Ecosystem_White_Paper_2.0.pdf)
 
 ## Contributing & License
-Help us build Melodot! Melodot is an open-source software licensed under the [MIT License].
+Help us build Melodot! Melodot is an open-source software licensed under the [MIT License](https://github.com/jjjutla/melodot/blob/main/MIT-LICENSE.txt).
 
