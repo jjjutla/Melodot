@@ -30,7 +30,7 @@ Melodot is a decentralized application designed to solve music copyright issues 
 
 ### Demo
 - [Demo v1 ](https://www.youtube.com/watch?v=1BiVWuq7SzI)(25 Jun 2023)
-- Demo v2 (21 July 2024)
+- [Demo v2](https://youtu.be/hxdMcE9n4cY) (21 July 2024) *new*
 
 ### Images
 
